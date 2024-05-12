@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 11.99,
+      "imgUrl": "https://pbs.twimg.com/media/GM6g4G_WAAExwEg?format=jpg&name=large"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1099.99,
+      "imgUrl": "https://images.idgesg.net/images/article/2020/07/img_20200709_124406-2-100851298-orig.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lemon",
+      "price": 0.99,
+      "imgUrl": "https://foodprint.org/wp-content/uploads/2018/10/twenty20_ec142b8b-1486-4291-9a68-5c8d5128d282-e1539129063986.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Toyota AE86",
+      "price": 29469.99,
+      "imgUrl": "https://wallpaperaccess.com/full/2326154.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sega Saturn",
+      "price": 399.99,
+      "imgUrl": "https://1.bp.blogspot.com/---Fi0QrPBBo/WsT74kW1L1I/AAAAAAAAGks/ci7riMhAH7UF0G6tmLarL_6eNecNiiQdwCLcBGAs/s1600/saturn%2Bmodel%2B2.JPG"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Desk",
+      "price": 84.99,
+      "imgUrl": "https://gamingpcdesks.com/wp-content/uploads/2020/03/RESPAWN-1063-63-GAMING-1024x1024.jpg"
+    }
+  ]
